@@ -1,0 +1,26 @@
+/dist/
+/node_modules/
+/uploads/
+/vendor/
+/storage/
+.env
+
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+wp-config.php
+
+/temp
